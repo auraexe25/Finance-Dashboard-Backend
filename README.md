@@ -324,11 +324,4 @@ curl -H "Authorization: Bearer $TOKEN" \
 
 **Rate Limit Errors**: Wait for the rate limit window to reset, or restart the application.
 
-## License
-
-ISC
-
-## Support
-
-For issues or questions, refer to the API documentation in [API_DOCS.md](API_DOCS.md) or the comprehensive inline code structure.
 
