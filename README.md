@@ -195,7 +195,7 @@ Query parameters support date filtering:
 - `startDate` — ISO date (e.g., `2026-01-01`)
 - `endDate` — ISO date (e.g., `2026-04-06`)
 
-For detailed API documentation, see [API_DOCS.md](API_DOCS.md).
+
 
 ## Role-Based Access Control
 
